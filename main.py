@@ -19,7 +19,7 @@ logging.basicConfig(
 )
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8027675591:AAGXdGj-MbTMGRsgTVIEp-_J5xC9tCWVHz0"
+BOT_TOKEN = "8027675591:AAHyUMLSGx6jKKiNEHSgaq2sqbDf4q3dNn4"
 ADMIN_ID = 8161638248  # Admin ID
 OUTPUT_FILE = "accounts.json"
 USERS_FILE = "users.json"
